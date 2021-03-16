@@ -1,0 +1,12 @@
+Free Furniture Pack:
+Classic_Commode_2
+
+What Remains of Edith Finch:
+Armchair_dense
+ClassrommCabinet_a
+ClassrommCabinet_b
+CoffeeMaker_b
+EdithPhoto_a - d
+EdithRoomBed_a
+Microwave_b
+StudyBookcase_a + b
